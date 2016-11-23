@@ -1,5 +1,5 @@
-void setdown() {
-  size(480, 120);
+void setup() {
+  size(110, 120);
 }
 
 void draw() {
